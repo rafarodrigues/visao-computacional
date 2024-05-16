@@ -51,6 +51,11 @@ Os modelos foram treinados por 30 épocas, utilizando um esquema de aprendizado 
 
 A avaliação dos modelos foi feita no conjunto de teste, utilizando métricas como acurácia, F1 score, e visualização de exemplos de classificações corretas e incorretas para análise visual.
 
+## Link para o projeto
+
+<a href="https://github.com/rafarodrigues/visao-computacional/blob/main/ML%20-%20Classifica%C3%A7%C3%A3o%20de%20imagens%20CIFAR-100/classificacao-imagens-CIFAR100-v1.ipynb" target="_blank">visao-computacional/ML - Classificação de imagens CIFAR-100
+/classificacao-imagens-CIFAR100-v1.ipynb</a>
+
 ## Resultados e Conclusão
 
 Através da aplicação de Transfer Learning com MobileNetV2 e EfficientNetB0, foi possível alcançar um desempenho significativo no treinamento, mas abaixo do esperado na validação. Isso abre espaço para melhorias no treinamento e na busca de resultados melhores.

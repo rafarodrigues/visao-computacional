@@ -44,6 +44,11 @@ Construímos uma CNN com camadas de convolução, pooling e densas, e compilamos
 
 Avaliar o modelo nos conjuntos de teste e validação é crucial para medir seu desempenho. Utilizamos métricas como acurácia e F1 score para uma avaliação detalhada.
 
+## Link para o projeto
+
+<a href="https://github.com/rafarodrigues/visao-computacional/blob/main/ML%20-%20Classifica%C3%A7%C3%A3o%20-%20CNN%20Fashion%20MNIST/Fashion_MNIST.ipynb" target="_blank">visao-computacional/ML - Classificação - CNN Fashion MNIST
+/Fashion_MNIST.ipynb</a>
+
 ## Conclusão
 
 Através deste estudo, demonstramos a aplicação prática de uma CNN para a classificação de imagens do Fashion MNIST, abordando todas as etapas necessárias desde o pré-processamento até a avaliação do modelo. Os resultados obtidos destacam a eficácia das redes neurais convolucionais em tarefas de visão computacional.

@@ -20,6 +20,11 @@ Inspiradas pelos neurônios biológicos, as Redes Neurais Artificiais (RNAs) for
 
 Usando a biblioteca Keras, podemos implementar um modelo de MLP para classificar imagens do dataset Fashion MNIST. O modelo consiste em camadas densas e funções de ativação, treinado com o otimizador SGD e a função de perda sparse_categorical_crossentropy.
 
+## Link para o projeto
+
+<a href="https://github.com/rafarodrigues/visao-computacional/blob/main/Artigo%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0s%20Redes%20Neurais%20Artificiais/redes_neurais.ipynb" target="_blank">visao-computacional/Artigo - Introdução às Redes Neurais Artificiais
+/redes_neurais.ipynb</a>
+
 ## Conclusão
 
 As Redes Neurais Artificiais, desde seus primórdios inspirados na biologia até suas aplicações modernas em deep learning, representam uma evolução significativa na capacidade de computação e aprendizado. Com o uso de ferramentas como Keras, a implementação e experimentação com RNAs se tornaram mais acessíveis, permitindo avanços contínuos na área de machine learning.

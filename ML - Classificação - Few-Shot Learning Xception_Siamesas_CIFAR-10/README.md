@@ -50,6 +50,11 @@ Avaliar o modelo no conjunto de teste é crucial para medir seu desempenho em da
 ## Resultados
 ![a](a.png)
 
+## Link para o projeto
+
+<a href="https://github.com/rafarodrigues/visao-computacional/blob/main/ML%20-%20Classifica%C3%A7%C3%A3o%20-%20Few-Shot%20Learning%20Xception_Siamesas_CIFAR-10/Xception_Siamesas_CIFAR_10_V_RR.ipynb" target="_blank">visao-computacional/ML - Classificação - Few-Shot Learning Xception_Siamesas_CIFAR-10
+/Xception_Siamesas_CIFAR_10_V_RR.ipynb</a>
+
 
 ## Conclusão
 
