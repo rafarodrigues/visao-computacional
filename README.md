@@ -36,7 +36,7 @@ A segmentação de imagens é o processo de dividir uma imagem em várias partes
 
 ## Projetos
 
---
+* `001` <a href="https://github.com/rafarodrigues/kaggle/tree/main/001_Titanic" target="_blank">Fashion MNIST - Explorando a Classificação de Imagens com CNNs</a>
 
 ## Licença
 
