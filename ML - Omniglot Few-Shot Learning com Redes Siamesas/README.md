@@ -63,6 +63,7 @@ A aplicação de Redes Siamesas no dataset Omniglot demonstrou um desempenho pro
 
 ## Links para o Projeto
 
-- [Projeto no GitHub](https://github.com/seu_usuario/seu_projeto)
+- [visao-computacional/ML - Omniglot Few-Shot Learning com Redes Siamesas
+/fsl_omniglot_siamese.ipynb](https://github.com/rafarodrigues/visao-computacional/blob/main/ML%20-%20Omniglot%20Few-Shot%20Learning%20com%20Redes%20Siamesas/fsl_omniglot_siamese.ipynb)
 
 Este README serve como guia completo para o projeto de aprendizado de máquina utilizando Redes Siamesas para one-shot learning, fornecendo uma visão geral, metodologia, e resultados obtidos.
