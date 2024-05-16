@@ -39,6 +39,7 @@ A segmentação de imagens é o processo de dividir uma imagem em várias partes
 * `001` <a href="https://github.com/rafarodrigues/visao-computacional/tree/main/Artigo%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0s%20Redes%20Neurais%20Artificiais" target="_blank">Artigo - Introdução às Redes Neurais Artificiais</a>
 * `002` <a href="https://github.com/rafarodrigues/visao-computacional/tree/main/ML%20-%20Classifica%C3%A7%C3%A3o%20-%20CNN%20Fashion%20MNIST" target="_blank">ML - Fashion MNIST - Explorando a Classificação de Imagens com CNNs</a>
 * `003` <a href="https://github.com/rafarodrigues/visao-computacional/tree/main/ML%20-%20Classifica%C3%A7%C3%A3o%20-%20Few-Shot%20Learning%20Xception_Siamesas_CIFAR-10" target="_blank">ML - Classificação de Imagens Few-Shot Learning de Gatos e Cães com Redes Siamesas (CIFAR-10)</a>
+* `004` <a href="https://github.com/rafarodrigues/visao-computacional/tree/main/ML%20-%20Classifica%C3%A7%C3%A3o%20de%20imagens%20CIFAR-100" target="_blank">ML - CIFAR-100: Classificação de Imagens com Transfer Learning (MobileNetV2 e EfficientNetB0)</a>
 
 ## Licença
 
