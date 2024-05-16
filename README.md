@@ -36,7 +36,8 @@ A segmentação de imagens é o processo de dividir uma imagem em várias partes
 
 ## Projetos
 
-* `001` <a href="https://github.com/rafarodrigues/visao-computacional/tree/main/Classifica%C3%A7%C3%A3o%20-%20CNN%20Fashion%20MNIST" target="_blank">Fashion MNIST - Explorando a Classificação de Imagens com CNNs</a>
+* `001` <a href="https://github.com/rafarodrigues/visao-computacional/tree/main/Artigo%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0s%20Redes%20Neurais%20Artificiais" target="_blank">Artigo - Introdução às Redes Neurais Artificiais</a>
+* `002` <a href="https://github.com/rafarodrigues/visao-computacional/tree/main/Classifica%C3%A7%C3%A3o%20-%20CNN%20Fashion%20MNIST" target="_blank">ML - Fashion MNIST - Explorando a Classificação de Imagens com CNNs</a>
 
 ## Licença
 
