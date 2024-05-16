@@ -35,6 +35,8 @@ O código original não levava em consideração a estrutura de redes siamesas, 
 
 A rede siamesa foi construída utilizando a arquitetura Xception, com ajustes para considerar duas entradas distintas e calcular a distância L1 entre os embeddings das imagens.
 
+![b](b.png)
+
 ### Treinamento do Modelo
 
 O modelo foi treinado utilizando os pares de imagens gerados, com 20 épocas e um tamanho de batch de 32.
